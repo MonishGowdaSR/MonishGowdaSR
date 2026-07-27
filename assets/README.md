@@ -38,7 +38,7 @@
 
 A complete MERN platform for vehicle booking, workflow management, secure authentication, Razorpay payments and role-based dashboards.
 
-**Tech**
+**Tech Stack**
 
 React • Node.js • Express • MongoDB • JWT • Razorpay • Tailwind CSS
 
@@ -50,7 +50,7 @@ React • Node.js • Express • MongoDB • JWT • Razorpay • Tailwind CSS
 
 Modern MERN application for project planning, task tracking and secure collaboration.
 
-**Tech**
+**Tech Stack**
 
 React • Node.js • Express • MongoDB • JWT
 
@@ -88,11 +88,11 @@ React • Node.js • Express • MongoDB • JWT
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MonishGowdaSR&theme=github_dark&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MonishGowdaSR&theme=github-dark&hide_border=true"/>
 
 </p>
 
