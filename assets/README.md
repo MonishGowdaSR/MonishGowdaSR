@@ -42,9 +42,7 @@ A complete MERN platform for vehicle booking, workflow management, secure authen
 
 React • Node.js • Express • MongoDB • JWT • Razorpay • Tailwind CSS
 
-🔗 Repository:
-https://github.com/MonishGowdaSR/Vehicle-Service-Management
-
+🔗 **Repository:** [Vehicle Service Management](https://github.com/MonishGowdaSR/Vehicle-Service-Management)
 ---
 
 ### 📋 Task & Project Management System
@@ -55,8 +53,7 @@ Modern MERN application for project planning, task tracking and secure collabora
 
 React • Node.js • Express • MongoDB • JWT
 
-🔗 Repository:
-https://github.com/MonishGowdaSR/Task-and-Project-Management-System
+🔗 **Repository:** [Task & Project Management System](https://github.com/MonishGowdaSR/Task-and-Project-Management-System)
 
 ---
 
@@ -64,12 +61,11 @@ https://github.com/MonishGowdaSR/Task-and-Project-Management-System
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MonishGowdaSR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MonishGowdaSR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonishGowdaSR&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonishGowdaSR&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
 ---
 
 <p align="center">
@@ -79,6 +75,8 @@ https://github.com/MonishGowdaSR/Task-and-Project-Management-System
 </p>
 
 ---
+
+## 📈 Profile Summary
 
 <p align="center">
 
