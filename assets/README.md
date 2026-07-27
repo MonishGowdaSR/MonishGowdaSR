@@ -43,6 +43,7 @@ A complete MERN platform for vehicle booking, workflow management, secure authen
 React • Node.js • Express • MongoDB • JWT • Razorpay • Tailwind CSS
 
 🔗 **Repository:** [Vehicle Service Management](https://github.com/MonishGowdaSR/Vehicle-Service-Management)
+
 ---
 
 ### 📋 Task & Project Management System
@@ -66,6 +67,7 @@ React • Node.js • Express • MongoDB • JWT
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MonishGowdaSR&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+
 ---
 
 <p align="center">
@@ -84,13 +86,17 @@ React • Node.js • Express • MongoDB • JWT
 
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MonishGowdaSR&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MonishGowdaSR&theme=github_dark&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
+
+---
 
 ## 🤝 Connect With Me
 
